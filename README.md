@@ -1,4 +1,4 @@
-# Bài tập lớn OOP - Bomberman Game
+# BBM
 Dùng JavaFX - JDK 17
 
 Đây là một phiên bản được xây dựng lại từ tựa game huyền thoại Bomberman của NES.
