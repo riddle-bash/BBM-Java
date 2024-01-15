@@ -1,5 +1,17 @@
-# BBM
-Dùng JavaFX - JDK 17
+# Bomberman Retro Dungeon
+Các thành viên nhóm UET K64-K2:
+- Hoàng Hải Nam
+- Đinh Ngọc Sơn
+- Nguyễn Tiến Nghĩa
+
+Phiên bản: JDK 17
+
+Hướng dẫn: 
+1. Copy đường dẫn của **ib\lib** sau khi giải nén (sau đây gọi là PATH).
+2. Mở IntelliJ chọn **Module Setting\Library\+\PATH**.
+3. Tiếp theo tại nút **Run\⋮\Run with parameter\Modify option\Add VM Option**.
+4. Điền *--module-path="PATH" --add-modules=javafx.controls,javafx.fxml,javafx.media*.
+5. Run.
 
 Đây là một phiên bản được xây dựng lại từ tựa game huyền thoại của NES.
 
